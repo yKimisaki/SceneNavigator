@@ -2,6 +2,10 @@
 
 Unity/.NET 4.6のTask機能で作った、コードベースでシンプルなシーン遷移の管理システム。
 
+## UniTask版
+
+https://github.com/yKimisaki/UnitySceneNavigator
+
 ## 使い方
 
 ### 次のシーンに進む
